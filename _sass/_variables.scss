@@ -14,9 +14,9 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $Mercury                    : "MercurySSm-Book";
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$serif                      : "MercurySSm-Book";
+$sans-serif                 : "MercurySSm-Book";
+$monospace                  : "MercurySSm-Book";
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $Mercury;
